@@ -1,0 +1,9 @@
+.idea
+target*
+.classpath
+.factorypath
+.project
+.settings
+bin*
+pre-commit
+*.iml
